@@ -57,8 +57,9 @@
 
   <dependencies>
     <dependency>
-      <groupId>${project.groupId}</groupId>
+      <groupId>io.zipkin.brave</groupId>
       <artifactId>brave</artifactId>
+      <version>4.3.3</version>
     </dependency>
   </dependencies>
 
